@@ -1,4 +1,5 @@
 # potential-octo-meme
-D2 Vendor Rotation Checker
 
-Checks the daily rotation for vendors in Destiny 2
+D2 Daily Reset Checker
+
+Checks the daily reset in Destiny 2
